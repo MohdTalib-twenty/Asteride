@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@200&family=Dancing+Script&family=Dongle:wght@300&family=Martian+Mono:wght@600&family=Playfair+Display&family=Poppins:wght@300;400&family=Quicksand:wght@300&display=swap');
+body{
+    font-family: 'Catamaran', sans-serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Dongle', sans-serif;
+font-family: 'Martian Mono', monospace;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Quicksand', sans-serif;
+
+}
+.navbar{
+    background-color:  rgb(135, 59, 152) !important;
+    color: white;
+}
+a{
+    color: white !important;
+    font-weight: bold !important;
+}
+button{
+    width: 200px;
+    border-radius: 100px !important;
+    color: rgb(135, 59, 152) !important;
+    font-weight: bold !important;
+    text-transform: uppercase;
+    background-color:white !important;
+}
